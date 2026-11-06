@@ -18,6 +18,7 @@ export interface Release {
   review: string[]
   tracks: Track[]
   seq: number
+  catalog?: string | null
 }
 export interface Artist {
   slug: string

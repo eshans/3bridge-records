@@ -28,7 +28,7 @@ const filtered = computed(() => {
   return releases.filter(
     (r) =>
       (!activeYear.value || year(r.date) === activeYear.value) &&
-      (!needle || `${r.title} ${r.artistLine} ${r.tracks.map((t) => t.title).join(' ')}`.toLowerCase().includes(needle)),
+      (!needle || `${r.catalog ?? ''} ${r.title} ${r.artistLine} ${r.tracks.map((t) => t.title).join(' ')}`.toLowerCase().includes(needle)),
   )
 })
 
@@ -67,7 +67,7 @@ function onMove(e: MouseEvent) {
           <input
             v-model="q"
             type="search"
-            placeholder="Search title, artist, track…"
+            placeholder="Search title, artist, track, 3B…"
             class="w-full border border-rule bg-transparent px-3 py-2 font-mono text-xs placeholder:text-faint focus:border-fg focus:outline-none"
           />
         </label>
@@ -119,7 +119,8 @@ function onMove(e: MouseEvent) {
     <!-- INDEX -->
     <div v-else class="mt-6" @mousemove="onMove" @mouseleave="hover = null">
       <div class="meta hidden grid-cols-12 gap-4 border-b border-rule pb-2 md:grid">
-        <span class="col-span-5">Title</span>
+        <span class="col-span-1">Cat.</span>
+        <span class="col-span-4">Title</span>
         <span class="col-span-4">Artist</span>
         <span class="col-span-2">Date</span>
         <span class="col-span-1 text-right">Tracks</span>
@@ -132,7 +133,8 @@ function onMove(e: MouseEvent) {
             @mouseenter="hover = r.thumb"
           >
             <img :src="r.thumb ?? ''" alt="" width="56" height="56" loading="lazy" class="row-span-2 aspect-square w-14 md:hidden" />
-            <span class="truncate text-lg font-semibold group-hover:text-red md:col-span-5">{{ r.title }}</span>
+            <span class="meta hidden md:col-span-1 md:block">{{ r.catalog ?? '—' }}</span>
+            <span class="truncate text-lg font-semibold group-hover:text-red md:col-span-4">{{ r.title }}</span>
             <span class="truncate text-muted md:col-span-4">{{ r.artistLine }}</span>
             <span class="meta hidden md:col-span-2 md:block">{{ fmtDate(r.date) }}</span>
             <span class="meta hidden text-right md:col-span-1 md:block">{{ r.tracks.length || '—' }}</span>

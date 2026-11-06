@@ -41,7 +41,7 @@ useSeoMeta({
         <NuxtLink :to="`/release/${latest.slug}`" class="group self-end md:col-span-5">
           <div class="flex items-center justify-between border-b border-rule pb-2">
             <span class="meta text-red-ink">Latest release</span>
-            <span class="meta">{{ latest.date?.slice(0, 4) }}</span>
+            <span class="meta">{{ latest.catalog ?? latest.date?.slice(0, 4) }}</span>
           </div>
           <div class="relative mt-4 overflow-hidden">
             <img

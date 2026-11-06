@@ -19,6 +19,11 @@ const more = [
   .sort(byDate)
   .slice(0, 4)
 
+// other titles issued on the same record (same catalog number)
+const sameRecord = release.catalog
+  ? releases.filter((r) => r.catalog === release.catalog && r.slug !== release.slug)
+  : []
+
 useSeoMeta({
   title: `${release.title} — ${release.artistLine}`,
   description: release.review[0]?.slice(0, 160) || `${release.title} by ${release.artistLine} on 3Bridge Records.`,
@@ -37,6 +42,7 @@ useHead({
         byArtist: credited.map((a) => ({ '@type': 'MusicGroup', name: a.name })),
         datePublished: release.date ?? undefined,
         recordLabel: '3Bridge Records',
+        catalogNumber: release.catalog ?? undefined,
         numTracks: release.tracks.length || undefined,
         track: release.tracks.map((t, i) => ({ '@type': 'MusicRecording', name: t.title, position: i + 1 })),
       }),
@@ -69,6 +75,7 @@ useHead({
 
       <div class="md:col-span-6 lg:col-span-7">
         <p class="meta">
+          <template v-if="release.catalog"><span class="text-fg">{{ release.catalog }}</span> · </template>
           <span class="text-red-ink">{{ release.date ? fmtDate(release.date, 'long') : 'Release date unknown' }}</span><template v-if="release.tracks.length"> · {{ release.tracks.length }} {{ release.tracks.length === 1 ? 'track' : 'tracks' }}</template>
         </p>
         <h1 class="display mt-4 text-[clamp(3.5rem,9vw,8rem)]">{{ release.title }}</h1>
@@ -77,6 +84,12 @@ useHead({
             <NuxtLink :to="`/artist/${a.slug}`" class="underline decoration-rule decoration-2 underline-offset-4 hover:text-red hover:decoration-red">{{ a.name }}</NuxtLink><span v-if="i < credited.length - 1">, </span>
           </template>
           <span v-if="!credited.length">{{ release.artistLine }}</span>
+        </p>
+        <p v-if="sameRecord.length" class="meta mt-4">
+          Also on {{ release.catalog }}:
+          <template v-for="(r, i) in sameRecord" :key="r.slug">
+            <NuxtLink :to="`/release/${r.slug}`" class="text-fg underline underline-offset-4 hover:text-red">{{ r.title }}</NuxtLink><span v-if="i < sameRecord.length - 1">, </span>
+          </template>
         </p>
 
         <div class="mt-8 flex flex-wrap gap-3">

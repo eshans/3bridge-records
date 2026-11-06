@@ -26,7 +26,8 @@
   ],
   "upc": "853567636898",
   "deezerUrl": "https://www.deezer.com/album/997140451",
-  "seq": 135
+  "seq": 135,
+  "catalog": "3B443"
  },
  {
   "slug": "tenebrism",
@@ -59,7 +60,8 @@
   ],
   "upc": "853567586155",
   "deezerUrl": "https://www.deezer.com/album/967965051",
-  "seq": 134
+  "seq": 134,
+  "catalog": "3B442"
  },
  {
   "slug": "promises",
@@ -88,7 +90,8 @@
   ],
   "upc": "853567522405",
   "deezerUrl": "https://www.deezer.com/album/936099401",
-  "seq": 133
+  "seq": 133,
+  "catalog": "3B441"
  },
  {
   "slug": "lemon",
@@ -116,7 +119,8 @@
   ],
   "upc": "853567372819",
   "deezerUrl": "https://www.deezer.com/album/851178412",
-  "seq": 132
+  "seq": 132,
+  "catalog": "3B440"
  },
  {
   "slug": "cascadeon",
@@ -144,7 +148,8 @@
   ],
   "upc": "853567322043",
   "deezerUrl": "https://www.deezer.com/album/826343011",
-  "seq": 131
+  "seq": 131,
+  "catalog": "3B339"
  },
  {
   "slug": "engram",
@@ -172,7 +177,8 @@
     "duration": null
    }
   ],
-  "seq": 130
+  "seq": 130,
+  "catalog": "3B338"
  },
  {
   "slug": "out-of-bk",
@@ -211,7 +217,8 @@
     "duration": null
    }
   ],
-  "seq": 129
+  "seq": 129,
+  "catalog": "3B337"
  },
  {
   "slug": "idle",
@@ -240,7 +247,8 @@
     "duration": null
    }
   ],
-  "seq": 128
+  "seq": 128,
+  "catalog": "3B336"
  },
  {
   "slug": "prismatic",
@@ -273,7 +281,8 @@
   ],
   "upc": "853566842931",
   "deezerUrl": "https://www.deezer.com/album/632450711",
-  "seq": 127
+  "seq": 127,
+  "catalog": "3B335"
  },
  {
   "slug": "mediator",
@@ -301,7 +310,8 @@
     "duration": null
    }
   ],
-  "seq": 126
+  "seq": 126,
+  "catalog": "3B334"
  },
  {
   "slug": "disco-wakeup",
@@ -330,7 +340,8 @@
     "duration": null
    }
   ],
-  "seq": 125
+  "seq": 125,
+  "catalog": "3B333"
  },
  {
   "slug": "let-sleeping-dogs",
@@ -358,7 +369,8 @@
     "duration": null
    }
   ],
-  "seq": 124
+  "seq": 124,
+  "catalog": "3B332"
  },
  {
   "slug": "the-main-line",
@@ -391,7 +403,8 @@
     "duration": null
    }
   ],
-  "seq": 123
+  "seq": 123,
+  "catalog": "3B331"
  },
  {
   "slug": "gatto-inside",
@@ -419,7 +432,8 @@
     "duration": null
    }
   ],
-  "seq": 122
+  "seq": 122,
+  "catalog": "3B330"
  },
  {
   "slug": "tribal-tattoo",
@@ -447,7 +461,8 @@
     "duration": null
    }
   ],
-  "seq": 121
+  "seq": 121,
+  "catalog": "3B228"
  },
  {
   "slug": "liquid-laser",
@@ -480,7 +495,8 @@
     "duration": null
    }
   ],
-  "seq": 120
+  "seq": 120,
+  "catalog": "3B229"
  },
  {
   "slug": "words-unspoken",
@@ -508,7 +524,8 @@
     "duration": null
    }
   ],
-  "seq": 119
+  "seq": 119,
+  "catalog": "3B227"
  },
  {
   "slug": "around-the-sphere",
@@ -548,7 +565,8 @@
     "duration": null
    }
   ],
-  "seq": 118
+  "seq": 118,
+  "catalog": "3B226"
  },
  {
   "slug": "change",
@@ -586,7 +604,8 @@
     "duration": null
    }
   ],
-  "seq": 117
+  "seq": 117,
+  "catalog": "3B225"
  },
  {
   "slug": "kanterbury",
@@ -616,7 +635,8 @@
     "duration": null
    }
   ],
-  "seq": 116
+  "seq": 116,
+  "catalog": "3B223"
  },
  {
   "slug": "cloud-bursts",
@@ -646,7 +666,8 @@
     "duration": null
    }
   ],
-  "seq": 115
+  "seq": 115,
+  "catalog": "3B222"
  },
  {
   "slug": "chunky",
@@ -675,7 +696,8 @@
     "duration": null
    }
   ],
-  "seq": 114
+  "seq": 114,
+  "catalog": "3B221"
  },
  {
   "slug": "muntjac",
@@ -706,7 +728,8 @@
     "duration": null
    }
   ],
-  "seq": 113
+  "seq": 113,
+  "catalog": "3B220"
  },
  {
   "slug": "gettin-it",
@@ -735,7 +758,8 @@
     "duration": null
    }
   ],
-  "seq": 112
+  "seq": 112,
+  "catalog": "3B218"
  },
  {
   "slug": "sad-eyes",
@@ -770,7 +794,8 @@
     "duration": null
    }
   ],
-  "seq": 111
+  "seq": 111,
+  "catalog": "3B217"
  },
  {
   "slug": "follow-the-signs",
@@ -804,7 +829,8 @@
     "duration": null
    }
   ],
-  "seq": 110
+  "seq": 110,
+  "catalog": "3B216"
  },
  {
   "slug": "archetypes",
@@ -846,7 +872,8 @@
     "duration": null
    }
   ],
-  "seq": 109
+  "seq": 109,
+  "catalog": "3B215"
  },
  {
   "slug": "miss-you",
@@ -882,7 +909,8 @@
     "duration": null
    }
   ],
-  "seq": 108
+  "seq": 108,
+  "catalog": "3B214"
  },
  {
   "slug": "dulcie-caught-cricket",
@@ -920,7 +948,8 @@
     "duration": null
    }
   ],
-  "seq": 107
+  "seq": 107,
+  "catalog": "3B213"
  },
  {
   "slug": "kurripinha",
@@ -950,7 +979,8 @@
     "duration": null
    }
   ],
-  "seq": 106
+  "seq": 106,
+  "catalog": "3B212"
  },
  {
   "slug": "alright",
@@ -989,7 +1019,8 @@
     "duration": null
    }
   ],
-  "seq": 105
+  "seq": 105,
+  "catalog": "3B211"
  },
  {
   "slug": "figure-and-form",
@@ -1029,7 +1060,8 @@
     "duration": null
    }
   ],
-  "seq": 104
+  "seq": 104,
+  "catalog": "3B210"
  },
  {
   "slug": "burn",
@@ -1064,7 +1096,8 @@
     "duration": null
    }
   ],
-  "seq": 103
+  "seq": 103,
+  "catalog": "3B209"
  },
  {
   "slug": "the-best-of-3bridge2020",
@@ -1081,7 +1114,8 @@
    "We’re happy to proudly present our annual best of the 3Bridge Records. 2020 has been a wild year on a lot of levels but there’s been no shortage of great music being made by awesome artists. So, enjoy and we’ll see you in 2021!"
   ],
   "tracks": [],
-  "seq": 102
+  "seq": 102,
+  "catalog": "3B208"
  },
  {
   "slug": "cosmic-love",
@@ -1111,7 +1145,8 @@
     "duration": null
    }
   ],
-  "seq": 101
+  "seq": 101,
+  "catalog": "3B207"
  },
  {
   "slug": "perception",
@@ -1154,7 +1189,8 @@
     "duration": null
    }
   ],
-  "seq": 100
+  "seq": 100,
+  "catalog": "3B206"
  },
  {
   "slug": "evolutionary-tactics",
@@ -1184,7 +1220,8 @@
     "duration": null
    }
   ],
-  "seq": 99
+  "seq": 99,
+  "catalog": "3B205"
  },
  {
   "slug": "dreaming-detroit",
@@ -1216,7 +1253,8 @@
     "duration": null
    }
   ],
-  "seq": 98
+  "seq": 98,
+  "catalog": "3B204"
  },
  {
   "slug": "defective-metaphors",
@@ -1256,7 +1294,8 @@
     "duration": null
    }
   ],
-  "seq": 97
+  "seq": 97,
+  "catalog": "3B202"
  },
  {
   "slug": "l-o-v-e",
@@ -1286,7 +1325,8 @@
     "duration": null
    }
   ],
-  "seq": 96
+  "seq": 96,
+  "catalog": "3B201"
  },
  {
   "slug": "sleeping-giants",
@@ -1322,7 +1362,8 @@
     "duration": null
    }
   ],
-  "seq": 95
+  "seq": 95,
+  "catalog": "3B200"
  },
  {
   "slug": "emerge",
@@ -1359,7 +1400,8 @@
     "duration": null
    }
   ],
-  "seq": 94
+  "seq": 94,
+  "catalog": "3B199"
  },
  {
   "slug": "best-3bridge-2019",
@@ -1422,7 +1464,8 @@
     "duration": null
    }
   ],
-  "seq": 93
+  "seq": 93,
+  "catalog": "3B198"
  },
  {
   "slug": "communication",
@@ -1453,7 +1496,8 @@
     "duration": null
    }
   ],
-  "seq": 92
+  "seq": 92,
+  "catalog": "3B197"
  },
  {
   "slug": "memory-design",
@@ -1489,7 +1533,8 @@
     "duration": null
    }
   ],
-  "seq": 91
+  "seq": 91,
+  "catalog": "3B196"
  },
  {
   "slug": "out-of-sight",
@@ -1526,7 +1571,8 @@
     "duration": null
    }
   ],
-  "seq": 90
+  "seq": 90,
+  "catalog": "3B195"
  },
  {
   "slug": "dreamers",
@@ -1563,7 +1609,8 @@
     "duration": null
    }
   ],
-  "seq": 89
+  "seq": 89,
+  "catalog": "3B194"
  },
  {
   "slug": "someone-to-luv",
@@ -1612,7 +1659,8 @@
     "duration": null
    }
   ],
-  "seq": 88
+  "seq": 88,
+  "catalog": "3B193"
  },
  {
   "slug": "drive-through-the-crazy",
@@ -1652,7 +1700,8 @@
     "duration": null
    }
   ],
-  "seq": 87
+  "seq": 87,
+  "catalog": "3B192"
  },
  {
   "slug": "kaleidoscope",
@@ -1689,7 +1738,8 @@
     "duration": null
    }
   ],
-  "seq": 86
+  "seq": 86,
+  "catalog": "3B191"
  },
  {
   "slug": "perseverance",
@@ -1726,7 +1776,8 @@
     "duration": null
    }
   ],
-  "seq": 85
+  "seq": 85,
+  "catalog": "3B190"
  },
  {
   "slug": "connection-paths",
@@ -1764,7 +1815,8 @@
     "duration": null
    }
   ],
-  "seq": 84
+  "seq": 84,
+  "catalog": "3B189"
  },
  {
   "slug": "pressure",
@@ -1803,7 +1855,8 @@
     "duration": null
    }
   ],
-  "seq": 83
+  "seq": 83,
+  "catalog": "3B188"
  },
  {
   "slug": "best-3bridge-2018",
@@ -1820,7 +1873,8 @@
    "The yearly greatest hits has become a tradition around the holidays here at 3Bridge Records. We present to you 10 hand picked tracks found on our releases from 2018. As always, we’re proud of all of the artists who have contributed to our catalog, and hope you enjoy the variety of sounds and styles we offer. Featuring Deep Woods, Eric Shans, Gatto, Simon Sampler, Weston Butler, Mark Ryal, Eisenheim with Mel Pómene, Gianni Ruocco & Le Roi Carmona, Connie Yin & Nora Nostrand, and Futureworlder."
   ],
   "tracks": [],
-  "seq": 82
+  "seq": 82,
+  "catalog": "3B187"
  },
  {
   "slug": "warriors",
@@ -1861,7 +1915,8 @@
     "duration": null
    }
   ],
-  "seq": 81
+  "seq": 81,
+  "catalog": "3B186"
  },
  {
   "slug": "zabriskie-point",
@@ -1892,7 +1947,8 @@
     "duration": null
    }
   ],
-  "seq": 80
+  "seq": 80,
+  "catalog": "3B184"
  },
  {
   "slug": "broken-path-ep",
@@ -1923,7 +1979,8 @@
     "duration": null
    }
   ],
-  "seq": 79
+  "seq": 79,
+  "catalog": "3B183"
  },
  {
   "slug": "core-pt-3-consciousness",
@@ -1959,7 +2016,8 @@
     "duration": null
    }
   ],
-  "seq": 78
+  "seq": 78,
+  "catalog": "3B181"
  },
  {
   "slug": "hold-on-to-me-ep",
@@ -2008,7 +2066,8 @@
     "duration": null
    }
   ],
-  "seq": 77
+  "seq": 77,
+  "catalog": "3B180"
  },
  {
   "slug": "beef-granny-ep",
@@ -2039,7 +2098,8 @@
     "duration": null
    }
   ],
-  "seq": 76
+  "seq": 76,
+  "catalog": "3B179"
  },
  {
   "slug": "snow-dream-ep",
@@ -2080,7 +2140,8 @@
     "duration": null
    }
   ],
-  "seq": 75
+  "seq": 75,
+  "catalog": "3B178"
  },
  {
   "slug": "owls",
@@ -2117,7 +2178,8 @@
     "duration": null
    }
   ],
-  "seq": 74
+  "seq": 74,
+  "catalog": "3B177"
  },
  {
   "slug": "best-3bridge-2017",
@@ -2190,7 +2252,8 @@
     "duration": null
    }
   ],
-  "seq": 73
+  "seq": 73,
+  "catalog": "3B176"
  },
  {
   "slug": "another-world-ep",
@@ -2224,7 +2287,8 @@
     "duration": null
    }
   ],
-  "seq": 72
+  "seq": 72,
+  "catalog": "3B175"
  },
  {
   "slug": "return-order-ep",
@@ -2260,7 +2324,8 @@
     "duration": null
    }
   ],
-  "seq": 71
+  "seq": 71,
+  "catalog": "3B174"
  },
  {
   "slug": "checkmate-ep",
@@ -2296,7 +2361,8 @@
     "duration": null
    }
   ],
-  "seq": 70
+  "seq": 70,
+  "catalog": "3B172"
  },
  {
   "slug": "will-save-us-ep",
@@ -2333,7 +2399,8 @@
     "duration": null
    }
   ],
-  "seq": 69
+  "seq": 69,
+  "catalog": "3B171"
  },
  {
   "slug": "lost-people-ep",
@@ -2370,7 +2437,8 @@
     "duration": null
    }
   ],
-  "seq": 68
+  "seq": 68,
+  "catalog": "3B170"
  },
  {
   "slug": "cant-stop-ep",
@@ -2405,7 +2473,8 @@
     "duration": null
    }
   ],
-  "seq": 67
+  "seq": 67,
+  "catalog": "3B168"
  },
  {
   "slug": "safeless-ep",
@@ -2436,7 +2505,8 @@
     "duration": null
    }
   ],
-  "seq": 66
+  "seq": 66,
+  "catalog": "3B166"
  },
  {
   "slug": "funky-bitch-ep",
@@ -2474,7 +2544,8 @@
     "duration": null
    }
   ],
-  "seq": 65
+  "seq": 65,
+  "catalog": "3B165"
  },
  {
   "slug": "the-surrender-ep",
@@ -2511,7 +2582,8 @@
     "duration": null
    }
   ],
-  "seq": 64
+  "seq": 64,
+  "catalog": "3B164"
  },
  {
   "slug": "a-stranger-to-ourselves-ep",
@@ -2565,7 +2637,8 @@
     "duration": null
    }
   ],
-  "seq": 63
+  "seq": 63,
+  "catalog": "3B163"
  },
  {
   "slug": "old-tech",
@@ -2594,7 +2667,8 @@
     "duration": null
    }
   ],
-  "seq": 62
+  "seq": 62,
+  "catalog": "3B162"
  },
  {
   "slug": "sunspots-ep",
@@ -2632,7 +2706,8 @@
     "duration": null
    }
   ],
-  "seq": 61
+  "seq": 61,
+  "catalog": "3B161"
  },
  {
   "slug": "the-grandmother-pie",
@@ -2670,7 +2745,8 @@
     "duration": null
    }
   ],
-  "seq": 60
+  "seq": 60,
+  "catalog": "3B159"
  },
  {
   "slug": "thought-forms-ep",
@@ -2706,7 +2782,8 @@
     "duration": null
    }
   ],
-  "seq": 59
+  "seq": 59,
+  "catalog": "3B158"
  },
  {
   "slug": "naked-feet-sand-ep",
@@ -2739,7 +2816,8 @@
     "duration": null
    }
   ],
-  "seq": 58
+  "seq": 58,
+  "catalog": "3B157"
  },
  {
   "slug": "brooklyn-ny",
@@ -2777,7 +2855,8 @@
     "duration": null
    }
   ],
-  "seq": 57
+  "seq": 57,
+  "catalog": "3B156"
  },
  {
   "slug": "moment-ep",
@@ -2812,7 +2891,8 @@
     "duration": null
    }
   ],
-  "seq": 56
+  "seq": 56,
+  "catalog": "3B154"
  },
  {
   "slug": "deep-twist",
@@ -2846,7 +2926,8 @@
     "duration": null
    }
   ],
-  "seq": 55
+  "seq": 55,
+  "catalog": "3B153"
  },
  {
   "slug": "that-cat",
@@ -2882,7 +2963,8 @@
     "duration": null
    }
   ],
-  "seq": 54
+  "seq": 54,
+  "catalog": "3B151"
  },
  {
   "slug": "sidewinder",
@@ -2917,7 +2999,8 @@
     "duration": null
    }
   ],
-  "seq": 53
+  "seq": 53,
+  "catalog": "3B150"
  },
  {
   "slug": "the-innocent-ep",
@@ -2951,7 +3034,8 @@
     "duration": null
    }
   ],
-  "seq": 52
+  "seq": 52,
+  "catalog": "3B147"
  },
  {
   "slug": "germany",
@@ -2981,7 +3065,8 @@
     "duration": null
    }
   ],
-  "seq": 51
+  "seq": 51,
+  "catalog": "3B146"
  },
  {
   "slug": "the-capability-ep",
@@ -3015,7 +3100,8 @@
     "duration": null
    }
   ],
-  "seq": 50
+  "seq": 50,
+  "catalog": "3B145"
  },
  {
   "slug": "gone-away-ep",
@@ -3050,7 +3136,8 @@
     "duration": null
    }
   ],
-  "seq": 49
+  "seq": 49,
+  "catalog": "3B143"
  },
  {
   "slug": "chaotic",
@@ -3084,7 +3171,8 @@
     "duration": null
    }
   ],
-  "seq": 48
+  "seq": 48,
+  "catalog": "3B142"
  },
  {
   "slug": "the-best-of-3bridge-volume-1",
@@ -3101,7 +3189,8 @@
    "We at 3Bridge are proud of all of the releases on the label from the the past few years. Just in time for the holidays, we wanted to highlight some of our favorite tracks. This wasn’t easy, as there are a lot of them that we love, but we tried to cover a huge span of both sounds and styles that represent what the label is about – putting good music first above and beyond anything else. Here’s to hoping you enjoy the first collection of our hand picked gems! Be on the lookout for a second volume in 2016."
   ],
   "tracks": [],
-  "seq": 47
+  "seq": 47,
+  "catalog": "3B141"
  },
  {
   "slug": "memories-ep",
@@ -3136,7 +3225,8 @@
     "duration": null
    }
   ],
-  "seq": 46
+  "seq": 46,
+  "catalog": "3B140"
  },
  {
   "slug": "happy-warrior-nadja-lind-remix",
@@ -3160,7 +3250,8 @@
     "duration": null
    }
   ],
-  "seq": 45
+  "seq": 45,
+  "catalog": "3B139"
  },
  {
   "slug": "ill-be-so-good-the-remixes",
@@ -3197,7 +3288,8 @@
     "duration": null
    }
   ],
-  "seq": 44
+  "seq": 44,
+  "catalog": null
  },
  {
   "slug": "yours-and-mine-ep",
@@ -3228,7 +3320,8 @@
     "duration": null
    }
   ],
-  "seq": 43
+  "seq": 43,
+  "catalog": "3B137"
  },
  {
   "slug": "hunt-or-be-hunted",
@@ -3259,7 +3352,8 @@
     "duration": null
    }
   ],
-  "seq": 42
+  "seq": 42,
+  "catalog": "3B136"
  },
  {
   "slug": "in-the-line-ep",
@@ -3290,7 +3384,8 @@
     "duration": null
    }
   ],
-  "seq": 41
+  "seq": 41,
+  "catalog": "3B135"
  },
  {
   "slug": "separated-distance-ep",
@@ -3324,7 +3419,8 @@
     "duration": null
    }
   ],
-  "seq": 40
+  "seq": 40,
+  "catalog": "3B134"
  },
  {
   "slug": "brocartel-classic-instinct",
@@ -3355,7 +3451,8 @@
     "duration": null
    }
   ],
-  "seq": 39
+  "seq": 39,
+  "catalog": "3B133"
  },
  {
   "slug": "star-bird",
@@ -3378,7 +3475,8 @@
     "duration": null
    }
   ],
-  "seq": 38
+  "seq": 38,
+  "catalog": "3B131"
  },
  {
   "slug": "thoughts-like-waves-ep",
@@ -3401,7 +3499,8 @@
     "duration": null
    }
   ],
-  "seq": 37
+  "seq": 37,
+  "catalog": "3B132"
  },
  {
   "slug": "just-lose-mind",
@@ -3431,7 +3530,8 @@
     "duration": null
    }
   ],
-  "seq": 36
+  "seq": 36,
+  "catalog": "3B130"
  },
  {
   "slug": "happy-warrior",
@@ -3456,7 +3556,8 @@
     "duration": null
    }
   ],
-  "seq": 35
+  "seq": 35,
+  "catalog": "3B128"
  },
  {
   "slug": "mirror",
@@ -3485,7 +3586,8 @@
     "duration": null
    }
   ],
-  "seq": 34
+  "seq": 34,
+  "catalog": "3B127"
  },
  {
   "slug": "dreamer",
@@ -3515,7 +3617,8 @@
     "duration": null
    }
   ],
-  "seq": 33
+  "seq": 33,
+  "catalog": "3B126"
  },
  {
   "slug": "world-fell",
@@ -3548,7 +3651,8 @@
     "duration": null
    }
   ],
-  "seq": 32
+  "seq": 32,
+  "catalog": "3B125"
  },
  {
   "slug": "take-higher",
@@ -3577,7 +3681,8 @@
     "duration": null
    }
   ],
-  "seq": 31
+  "seq": 31,
+  "catalog": "3B124"
  },
  {
   "slug": "isotopes",
@@ -3605,7 +3710,8 @@
     "duration": null
    }
   ],
-  "seq": 30
+  "seq": 30,
+  "catalog": "3B123"
  },
  {
   "slug": "dreamcatcher-giuliano-rodrigues-remix",
@@ -3629,7 +3735,8 @@
     "duration": "8:59"
    }
   ],
-  "seq": 29
+  "seq": 29,
+  "catalog": "3B122"
  },
  {
   "slug": "hands",
@@ -3659,7 +3766,8 @@
     "duration": null
    }
   ],
-  "seq": 28
+  "seq": 28,
+  "catalog": "3B121"
  },
  {
   "slug": "last-night-went-deep",
@@ -3687,7 +3795,8 @@
     "duration": null
    }
   ],
-  "seq": 27
+  "seq": 27,
+  "catalog": "3B120"
  },
  {
   "slug": "skylights-remixes",
@@ -3723,7 +3832,8 @@
     "duration": null
    }
   ],
-  "seq": 26
+  "seq": 26,
+  "catalog": "3B119"
  },
  {
   "slug": "dreamcatcher",
@@ -3762,7 +3872,8 @@
     "duration": null
    }
   ],
-  "seq": 25
+  "seq": 25,
+  "catalog": "3B118"
  },
  {
   "slug": "certain-dark-things",
@@ -3780,7 +3891,8 @@
    "Certain Dark Things"
   ],
   "tracks": [],
-  "seq": 24
+  "seq": 24,
+  "catalog": "3B117"
  },
  {
   "slug": "space-age-love-song-beatport-exclusive-pre-release",
@@ -3803,7 +3915,8 @@
     "duration": null
    }
   ],
-  "seq": 23
+  "seq": 23,
+  "catalog": "3B116"
  },
  {
   "slug": "skylights",
@@ -3827,7 +3940,8 @@
     "duration": null
    }
   ],
-  "seq": 22
+  "seq": 22,
+  "catalog": "3B115"
  },
  {
   "slug": "right",
@@ -3855,7 +3969,8 @@
     "duration": null
    }
   ],
-  "seq": 21
+  "seq": 21,
+  "catalog": "3B113"
  },
  {
   "slug": "horizon",
@@ -3884,7 +3999,8 @@
     "duration": null
    }
   ],
-  "seq": 20
+  "seq": 20,
+  "catalog": "3B114"
  },
  {
   "slug": "find-alright-2",
@@ -3915,7 +4031,8 @@
     "duration": null
    }
   ],
-  "seq": 19
+  "seq": 19,
+  "catalog": null
  },
  {
   "slug": "love-fever",
@@ -3943,7 +4060,8 @@
     "duration": null
    }
   ],
-  "seq": 18
+  "seq": 18,
+  "catalog": "3B110"
  },
  {
   "slug": "dead-ringers-featuring-niabi",
@@ -3976,7 +4094,8 @@
     "duration": null
    }
   ],
-  "seq": 17
+  "seq": 17,
+  "catalog": "3B109"
  },
  {
   "slug": "mojito-recipe",
@@ -3999,7 +4118,8 @@
     "duration": null
    }
   ],
-  "seq": 16
+  "seq": 16,
+  "catalog": null
  },
  {
   "slug": "you-got",
@@ -4016,7 +4136,8 @@
    "New release by the Brocartel coming out of the Ukraine"
   ],
   "tracks": [],
-  "seq": 15
+  "seq": 15,
+  "catalog": "3B104"
  },
  {
   "slug": "last-exit-to-brooklyn",
@@ -4039,7 +4160,8 @@
    "3. BQE – Terron Darby"
   ],
   "tracks": [],
-  "seq": 14
+  "seq": 14,
+  "catalog": "3B100"
  },
  {
   "slug": "1996",
@@ -4056,11 +4178,12 @@
    "One of our festured releases by the legendary Rick Wade from Detroit."
   ],
   "tracks": [],
-  "seq": 13
+  "seq": 13,
+  "catalog": "3B101"
  },
  {
   "slug": "dark-knight",
-  "title": "Dark Knight",
+  "title": "Dark Night",
   "artistLine": "Deep Woods",
   "artists": [
    "deep-woods"
@@ -4073,7 +4196,8 @@
    "Deep Woods heavy hitter dark night out now on 3Bridge"
   ],
   "tracks": [],
-  "seq": 12
+  "seq": 12,
+  "catalog": "3B102"
  },
  {
   "slug": "forgotten-hustle",
@@ -4090,7 +4214,8 @@
    "One of Rick Wades latest releases straight out of Detroit."
   ],
   "tracks": [],
-  "seq": 11
+  "seq": 11,
+  "catalog": "3B101"
  },
  {
   "slug": "disco-spliff",
@@ -4107,7 +4232,8 @@
    "Roberto Pedoto brings forth another slamming track for your dancing pleasure. The producer who brought you “I’ll Be So Good” hails from Italy and his debut 3Bridge effort is filled with an infectious groove that will lure you out upon the dance floor. Watch out for his further masterpieces soon on 3Bridge."
   ],
   "tracks": [],
-  "seq": 10
+  "seq": 10,
+  "catalog": "3B103"
  },
  {
   "slug": "deep-woods",
@@ -4124,7 +4250,8 @@
    "Pitch Black"
   ],
   "tracks": [],
-  "seq": 9
+  "seq": 9,
+  "catalog": null
  },
  {
   "slug": "ill-be-so-good",
@@ -4141,7 +4268,8 @@
    "Roberto Pedoto"
   ],
   "tracks": [],
-  "seq": 8
+  "seq": 8,
+  "catalog": null
  },
  {
   "slug": "we-go-on",
@@ -4170,7 +4298,8 @@
     "duration": null
    }
   ],
-  "seq": 7
+  "seq": 7,
+  "catalog": "3B155"
  },
  {
   "slug": "symbiotic-ep",
@@ -4210,7 +4339,8 @@
     "duration": null
    }
   ],
-  "seq": 6
+  "seq": 6,
+  "catalog": "3B169"
  },
  {
   "slug": "sexting-with-strangers",
@@ -4246,7 +4376,8 @@
     "duration": null
    }
   ],
-  "seq": 5
+  "seq": 5,
+  "catalog": "3B203"
  },
  {
   "slug": "ping-pong",
@@ -4274,7 +4405,8 @@
     "duration": null
    }
   ],
-  "seq": 4
+  "seq": 4,
+  "catalog": "3B224"
  },
  {
   "slug": "martians",
@@ -4314,7 +4446,8 @@
     "duration": null
    }
   ],
-  "seq": 3
+  "seq": 3,
+  "catalog": "3B185"
  },
  {
   "slug": "hemp-ep",
@@ -4357,7 +4490,8 @@
     "duration": null
    }
   ],
-  "seq": 2
+  "seq": 2,
+  "catalog": "3B167"
  },
  {
   "slug": "a-farewell-to-kings",
@@ -4388,6 +4522,7 @@
     "duration": null
    }
   ],
-  "seq": 1
+  "seq": 1,
+  "catalog": "3B173"
  }
 ]
