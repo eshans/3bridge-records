@@ -1,0 +1,6 @@
+# raw WordPress export (large, kept locally)
+wp-export/
+# working drafts
+catalog-numbers.csv
+.DS_Store
+__pycache__/
