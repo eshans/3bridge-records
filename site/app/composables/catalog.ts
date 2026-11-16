@@ -50,7 +50,7 @@ export const site = {
   name: '3Bridge Records',
   tagline: 'Sonic Landscapes from Brooklyn NY',
   demoEmail: 'eric@3bridgerecords.com',
-  infoEmail: 'info@3bridgerecords.com',
+  infoEmail: 'eric@3bridgerecords.com',
   founded: 2013,
   sister: { name: '3Bridge Elements', url: 'https://www.3bridgelements.com' },
   social: [
