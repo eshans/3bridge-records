@@ -30,7 +30,7 @@ const blocks = [
         </div>
         <!-- sized to the card (cqi), so the address always fits on one line -->
         <div class="@container mt-10">
-          <p class="display whitespace-nowrap text-[min(10cqi,3.75rem)]">{{ b.email }}</p>
+          <p class="display whitespace-nowrap text-center text-[min(9cqi,3.75rem)]">{{ b.email }}</p>
         </div>
       </a>
     </div>
