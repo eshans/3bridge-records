@@ -28,7 +28,10 @@ const blocks = [
           <p class="meta" :class="i === 0 && '!text-on-red/80'">{{ b.label }}</p>
           <p class="mt-2" :class="i === 0 ? '' : 'text-muted'">{{ b.note }}</p>
         </div>
-        <p class="display mt-10 text-[clamp(1.4rem,6.4vw,3.75rem)] [overflow-wrap:anywhere] lg:text-[clamp(2rem,3.4vw,3.75rem)]">{{ b.email }}</p>
+        <!-- sized to the card (cqi), so the address always fits on one line -->
+        <div class="@container mt-10">
+          <p class="display whitespace-nowrap text-[min(10cqi,3.75rem)]">{{ b.email }}</p>
+        </div>
       </a>
     </div>
 
